@@ -4,7 +4,7 @@ This is a sample News Reader app that displays news list and the details.
 # Features:- 
 - It shows how to build an android application with MVP application architecture
 - It shows the use of the most popular libraries like, Dagger2, RxJava, Retrofit, and Butterknife in android
-- It shows how to write unit and ui testing 
+
 
 ## screenshots
 
