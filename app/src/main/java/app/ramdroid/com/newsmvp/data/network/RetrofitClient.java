@@ -11,7 +11,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class RetrofitClient {
 
-    private static final String NEWS_SERVICE_BASE_URL = "https://raw.githubusercontent.com/rmoustafa/json-data/master/";
+    private static final String NEWS_SERVICE_BASE_URL = "https://raw.githubusercontent.com/rmoustafa/NewsExample/master/";
 
     public NewsApi getsNewsApi() {
 
