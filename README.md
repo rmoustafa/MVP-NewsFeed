@@ -2,10 +2,11 @@
 This is a sample News Reader app that reads news list from a remote end point, then displays them in a master-details flow.
 
 # Features:- 
-- The concept behind this simple app, is to show how to organize or architect an android app with Model-View Presenter (MVP) application architecture.
+- The concept behind this simple app, is to show how to organize or architect an android app using a Model-View Presenter (MVP) application architecture.
 - Uses Dagger2 to add support for dependency injection.
 - Uses RxJava to implement concurrency, and abstract the data layer.
-- Uses the most popular libraries like Retrofit, and Butterknife in android
+- Uses JUnit, Espresso, and Mockito for unit and UI testing
+- Uses other popular libraries in andrdoid like Retrofit and Butterknife.
 
 
 ## screenshots
